@@ -6,7 +6,7 @@ caption: 'Το 2018 η Google παρουσίασε το Android Jetpack στη �
 license_url: 'https://commons.wikimedia.org/wiki/File:Android_studio_3_1_screenshot.png'
 license_text: Courtesy of Deutsches Museum
 categories:
-  - programming
+  - Programming
   - Iterface
 tags:
   - Android
