@@ -17,4 +17,3 @@ tags:
   - VR applications
   - Design
 ---
-
