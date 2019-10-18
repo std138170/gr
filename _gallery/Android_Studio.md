@@ -1,14 +1,13 @@
 ---
-author: std138170
-title: android studio
-image_url: [128px-Android_studio_3_1_screenshot](https://github.com/std138170/gr/blob/gh-pages/images/128px-Android_studio_3_1_screenshot.png)
-caption: 'Το 2018 η Google παρουσίασε το Android Jetpack στη κοινότητα των προγραμματιστών. Σχεδιασμένο για να κάνει πιο γρήγορη και πιο εύκολη την ανάπτυξη σύγχρονων και αξιόπιστων εφαρμογών Android, το Jetpack αποτελείται από ένα σύνολο εργαλείων, βιβλιοθηκών και αρχιτεκτονικών οδηγιών.'
-license_url: 'https://commons.wikimedia.org/wiki/File:Android_studio_3_1_screenshot.png'
-license_text: Courtesy of wikimedia
+author: evabat
+title: active-badge
+image_url: /images/active-badge.jpg
+caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
+πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
+license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
+license_text: Courtesy of Deutsches Museum
 categories:
-  - programming
-  - iterface
+  - archetypes
 tags:
-  - Android
-  - IDE
+  - Xerox
 ---
