@@ -8,4 +8,5 @@ license_text: Courtesy of wikimedia
 categories:
   - Gaming
 tags:
+  - Keyboard
 ---
