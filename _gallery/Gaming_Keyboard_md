@@ -1,13 +1,12 @@
 ---
 author: std138170
 title: Gaming_Keyboard
-image_url: ![Gaming_Keyboard](https://github.com/std138170/gr/blob/gh-pages/images/Logitech_g710+_Gaming_Keybord.jpg)
-caption: 'Το 2018 η Google παρουσίασε το Android Jetpack στη κοινότητα των προγραμματιστών. Σχεδιασμένο για να κάνει πιο γρήγορη και πιο εύκολη την ανάπτυξη σύγχρονων και αξιόπιστων εφαρμογών Android, το Jetpack αποτελείται από ένα σύνολο εργαλείων, βιβλιοθηκών και αρχιτεκτονικών οδηγιών.'
-license_url: 'https://commons.wikimedia.org/wiki/File:Android_studio_3_1_screenshot.png'
+image_url: ![Gaming_Keyboard](https://github.com/std138170/gr/blob/gh-pages/images/Logitech_g710%2B_Gaming_Keybord.JPG)
+caption: ''
+license_url: 'https://commons.wikimedia.org/wiki/File:Logitech_g710%2B_Gaming_Keybord.JPG'
 license_text: Courtesy of wikimedia
 categories:
-  - Programming
-  - Iterface
+  - Gaming
 tags:
   - Android
   - IDE
