@@ -8,16 +8,16 @@ categories:
   - tools
 tags:
   - eye tracker
-  - 
+  - eyegaze
 gallery:
   - image_url: 
     caption: "Το 1879 και το 1900 μια σειρά ερευνών για τη κίνηση των ανθρώπινων οφθαλμών κατά τη διάρκεια ανάγνωσης οδήγησε τους ερευνητές σε μια πρώιμη κατασκευή eye tracker."
-  - image_url: /images/arduino-lilypad.jpg
+  - image_url:
     caption: "To 1950 ο Alfred L. Yarbus πραγματοποίησε μια έρευνα σχετικά με το eye tracking για να εκδώσει τελικά το βιβλίο του το 1976."
   - image_url: /images/arduino-shield.jpg
     caption: "Σήμερα χάρη στην εξέλιξη της τεχνολογίας και των φορητών ηλεκτρονικών συσκευών, επιτυγχάνονται υψηλές επιδόσεις των eye trackers με αποτέλεσμα τη σύνθεση των eyegaze συστημάτων σε φαρμογές είτε εμπορικής είτε στρατιωτικής χρήσς."
 ---
 
-{% include_relative cs-arduino.md %}
+{% include_relative Eyegaze.md %}
 
 {% include slides.html %}
