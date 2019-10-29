@@ -7,17 +7,15 @@ categories:
   - case-study
   - tools
 tags:
-  - arduino
-  - success
+  - eye tracker
+  - 
 gallery:
   - image_url: 
-    caption: "Υπάρχουν πάρα πολλά είδη Arduino τα οποία εξυπηρετούν διαφορετικές ανάγκες."
+    caption: "Το 1879 και το 1900 μια σειρά ερευνών για τη κίνηση των ανθρώπινων οφθαλμών κατά τη διάρκεια ανάγνωσης οδήγησε τους ερευνητές σε μια πρώιμη κατασκευή eye tracker."
   - image_url: /images/arduino-lilypad.jpg
-    caption: "Το Arduino Lilypad σχεδιάστηκε έτσι ώστε να διευκολύνει το ράψιμό του σε υφάσματα."
+    caption: "To 1950 ο Alfred L. Yarbus πραγματοποίησε μια έρευνα σχετικά με το eye tracking για να εκδώσει τελικά το βιβλίο του το 1976."
   - image_url: /images/arduino-shield.jpg
-    caption: "Η επέκταση με shields επιτρέπει στο βασικό Arduino να αποκτήσει νέες δυνατότητες εισόδου (π.χ., joystick) και εξόδου."
-  - image_url: /images/makey_makey_front.png
-    caption: "Το Makey Makey είναι ένα Arduino που έχει οργανωθεί και προγραμματιστεί έτσι ώστε να διευκολύνει τον πειραματισμό με νέες συσκευές εισόδου."
+    caption: "Σήμερα χάρη στην εξέλιξη της τεχνολογίας και των φορητών ηλεκτρονικών συσκευών, επιτυγχάνονται υψηλές επιδόσεις των eye trackers με αποτέλεσμα τη σύνθεση των eyegaze συστημάτων σε φαρμογές είτε εμπορικής είτε στρατιωτικής χρήσς."
 ---
 
 {% include_relative cs-arduino.md %}
